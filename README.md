@@ -1,1 +1,1 @@
-# sample-genAI
+# learnings on-genAI
